@@ -1,0 +1,6 @@
+/build
+/_extlib/
+/_docs/
+
+.idea
+.sencha
